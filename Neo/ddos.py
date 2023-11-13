@@ -23,8 +23,8 @@ os.system("cls" if os.name == "nt" else "clear")
 
 
 
-print(f"{Fore.RED}Made By Ratiela#5453")
-print(f"Discord Server: https://discord.gg/8wKYeUakna{Fore.RESET}")
+print(f"{Fore.RED}Made By neo1sback")
+print(f"Discord Server: https://discord.gg/dA5JCz7A{Fore.RESET}")
 welcome = f"""{Fore.LIGHTRED_EX}
 \t\t\t\t\t                                       
 $$$$$$$\  $$$$$$$\   $$$$$$\   $$$$$$\        $$$$$$$\                  $$\   $$\                     
